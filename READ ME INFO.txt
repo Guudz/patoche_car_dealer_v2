@@ -1,0 +1,63 @@
+UPDATE INFO 09/03/21 : 
+V1.1 : fixed lod
+
+CREDIT : 
+Mapping : patoche#4702
+
+
+--------------------------------------------------------------------------------------------------------------------
+Thank you for purchasing the mapping cardealer
+
+To avoid LEAK because it would be a shame to share this mapping:
+Do not give access to your server to developers in whom you do not have
+ the extreme confidence. They can work on a localhost because know that they 
+can recover all your resources. Be smart and careful.
+--------------------------------------------------------------------------------------------------------------------
+Install : 
+
+Mapping
+step 1 :  Copy/Past the folder " cardealer_patoche" on your resource folder .
+step 2 : Open your server.cfg and Start/Encure cardealer_patoche.
+
+
+replace logo :
+You can see on my video youtube how.
+You need to replace picture with another picture : 
+1024x1024 MAX ( your picture need to be 512x512 or 256x256 or....)
+format : PNG without backgound for simple logo on the wall
+ 
+"DEMO LAMBORGHINI" FOLDER is the file on my video
+---------------------------------------------------------------------------------
+ADD DOORLOCK V3 :
+
+place : OUTSIDE DOOR : LEFT
+Name of door : v_ilev_csr_door_l
+position : X:-69.58672 Y:64.7053 Z:72.11914
+
+place : OUTSIDE DOOR  : RIGHT
+Name of door : v_ilev_csr_door_l
+position : X:-67.93951 Y:63.76554 Z:72.11914
+
+place : inside door
+Name of door : v_ilev_ph_gendoor002
+position : X:-56.02399 Y:71.56345 Z:71.99021
+
+place : garage door
+Name of door : patoche_donk_door2
+position : X:-62.28647 Y:79.83851 Z:72.33872
+
+---------------------------------------------------------------------------------
+
+THE TV
+
+IF You use a script who use TV screen for stream : 
+
+
+Name : prop_tv_flat_michael
+Position : X:-80.49485 Y:76.08849 Z:72.55922
+
+
+
+
+
+
